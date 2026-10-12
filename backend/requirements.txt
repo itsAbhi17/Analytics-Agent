@@ -1,0 +1,47 @@
+
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+
+# Data Processing
+pandas==2.2.3
+numpy==1.26.4
+scipy==1.13.1
+openpyxl==3.1.2
+
+# Database
+sqlalchemy==2.0.25
+psycopg2-binary==2.9.9
+pymysql==1.1.0
+
+# Background Tasks
+redis==5.0.1
+celery==5.3.6
+
+# AI / LLM
+openai==1.10.0
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-anthropic==0.1.23
+
+# Visualization
+plotly==5.18.0
+
+# Environment & Config
+python-dotenv==1.0.0
+pydantic==2.5.3
+pydantic-settings==2.1.0
+email-validator==2.1.0
+
+# Document Parsing
+pymupdf==1.23.8
+python-docx==1.1.0
+python-pptx==0.6.23
+
+# ML / Embeddings
+sentence-transformers==2.7.0
+
+# Security / Auth
+bcrypt==4.1.2
+PyJWT==2.8.0
+
